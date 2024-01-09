@@ -4,13 +4,17 @@ Para ejecutarlo se puede realizar de dos maneras:
 
 1. Usando el plugin de spring boot
 
+```bash
 git clone https://github.com/jselvamadrigal/technical-test.git
 cd technical-test
 mvn spring-boot:run
+```
 
 2. Ejecutando el jar generado
 
+```bash
 git clone https://github.com/jselvamadrigal/technical-test.git
 cd technical-test
 mvn clean package
 java -jar target/technical-test-0.0.1.jar
+```
