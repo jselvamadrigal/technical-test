@@ -18,3 +18,10 @@ cd technical-test
 mvn clean package
 java -jar target/technical-test-0.0.1.jar
 ```
+
+
+Una vez que el proyecto este corriendo dirigirse a la siguiente URL
+
+```Link
+http://localhost:5010/technical-test/
+```
